@@ -1,3 +1,3 @@
 
 print ("Hello github");
-print ("fetch and merge")
+print ("pull");
